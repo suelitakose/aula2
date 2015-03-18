@@ -11,8 +11,9 @@ body{
 
 .imagem{
     text-align:center;
-    border:1px dotted;
+    border:1px solid;
     float:left;
+
 }
 
 .tab, th, td{
@@ -21,10 +22,12 @@ body{
 
 
 .texto1{
-	clear both;
+	clear:both;
 }
 
 .texto2{
 	border:2px solid;
 	clear: both;
+	width:80%;
+	margin: 0px auto 0px auto;
 }
